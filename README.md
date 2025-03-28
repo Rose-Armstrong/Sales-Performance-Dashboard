@@ -1,6 +1,6 @@
 # Sales-Performance-Dashboard
 
-Overview
+## Overview
 
 This repository contains a Power BI Sales Analysis Dashboard that provides key insights into sales performance, including revenue, profit, top-selling products, and trends over time. The dashboard is designed to help businesses track and analyze their sales data efficiently.
 
